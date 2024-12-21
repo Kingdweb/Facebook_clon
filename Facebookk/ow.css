@@ -34,10 +34,15 @@ footer:hover {
   color: white;
   width: 100%;
 }
+#blur{
+  font-size: 20px;
+        color: transparent;
+        text-shadow: 0 0 8px #ffffff;
 
+}
 
 h1 {
-  color: #1877f2;
+  color: rgb(0, 0, 0);
 }
 
 input {
